@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://shivangisachan20.io)
+
 <h1 align="center">Hi 👋, I'm Shivangi</h1>
 <h3 align="center">A passionate backend developer from India</h3>
  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400" align="right"> 
