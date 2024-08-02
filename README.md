@@ -5,7 +5,7 @@
 <h3 align="center">A passionate backend developer from India</h3>
  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400" align="right"> 
 
-- 🌱 I’m currently learning **JavaScript and Spring Framework**
+- 🌱 I’m currently working on **Java and SpringBoot Framework**
 
 - 👯 I’m looking to collaborate on **Backend and Fullstack Module**
 
